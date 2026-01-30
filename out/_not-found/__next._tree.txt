@@ -1,2 +1,3 @@
-:HL["/tadtlicht-lemgo/_next/static/chunks/9bd9f27e6dd2d718.css","style"]
-0:{"buildId":"iL_8E5GRQE9yIeFRQfn04","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/tadtlicht-lemgo/_next/static/chunks/3e32b93d5ae8b836.css","style"]
+:HL["/tadtlicht-lemgo/Stadtlicht_Logo.png","image"]
+0:{"buildId":"zIPztNoe4ZpdtoV1sR-LD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

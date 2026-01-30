@@ -1,6 +1,7 @@
-:HL["/tadtlicht-lemgo/_next/static/chunks/9bd9f27e6dd2d718.css","style"]
+:HL["/tadtlicht-lemgo/_next/static/chunks/3e32b93d5ae8b836.css","style"]
 :HL["/tadtlicht-lemgo/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tadtlicht-lemgo/_next/static/media/9e9f04e3c37952ab-s.p.4d24b8e7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tadtlicht-lemgo/_next/static/media/a85fe84266768609-s.p.e658778d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tadtlicht-lemgo/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"iL_8E5GRQE9yIeFRQfn04","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"datenschutz","paramType":null,"paramKey":"datenschutz","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/tadtlicht-lemgo/Stadtlicht_Logo.png","image"]
+0:{"buildId":"zIPztNoe4ZpdtoV1sR-LD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"datenschutz","paramType":null,"paramKey":"datenschutz","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

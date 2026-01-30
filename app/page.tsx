@@ -49,7 +49,7 @@ export default function Home() {
       </div>
 
       {/* New Farewell Section */}
-      <div className="relative z-10 w-full bg-white text-neutral-900 py-24 px-6 sm:px-12 lg:px-24">
+      <div className="relative z-10 w-full bg-slate-300 text-neutral-900 py-24 px-6 sm:px-12 lg:px-24">
         <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 
           {/* Text Content */}

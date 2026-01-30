@@ -8,12 +8,10 @@ export default function Home() {
     <main className="relative flex min-h-screen flex-col items-center justify-start bg-neutral-950 text-white pb-32 sm:pb-0">
       {/* Background Image with Overlay */}
       <div className="absolute top-0 left-0 w-full h-[100vh] z-0">
-        <Image
-          src="/stadtlicht-hero.jpg"
+        <img
+          src="/tadtlicht-lemgo/stadtlicht-hero.jpg"
           alt="Stadtlicht Lemgo - Currywerk"
-          fill
-          className="object-cover opacity-60"
-          priority
+          className="w-full h-full object-cover opacity-60"
         />
         {/* Gradient Overlay for Text Readability */}
         <div className="absolute inset-0 bg-gradient-to-t from-neutral-950 via-neutral-950/80 to-neutral-950/30" />
@@ -111,11 +109,10 @@ export default function Home() {
           {/* Image */}
           <div className="relative aspect-[4/5] w-full max-w-xl mx-auto lg:max-w-none transform rotate-1 transition-transform hover:rotate-0 duration-500">
             <div className="absolute inset-0 bg-neutral-900 rounded-2xl transform translate-x-3 translate-y-3" />
-            <Image
-              src="/Bedachungen.jpg"
+            <img
+              src="/tadtlicht-lemgo/Bedachungen.jpg"
               alt="Das Stadtlicht Team"
-              fill
-              className="object-cover rounded-2xl shadow-2xl grayscale-[10%] hover:grayscale-0 transition-all duration-500"
+              className="absolute inset-0 w-full h-full object-cover rounded-2xl shadow-2xl grayscale-[10%] hover:grayscale-0 transition-all duration-500"
             />
             {/* Corner Tape Effect */}
             <div className="absolute -top-4 -right-4 w-24 h-8 bg-amber-200/40 rotate-[30deg] backdrop-blur-sm" />

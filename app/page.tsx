@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Image from "next/image";
 import StickyFooter from "./components/StickyFooter";
 import Typewriter from "./components/Typewriter";
@@ -48,22 +49,22 @@ export default function Home() {
       </div>
 
       {/* New Farewell Section */}
-      <div className="relative z-10 w-full bg-white text-neutral-900 py-12 px-4 sm:py-24 sm:px-12 lg:px-24">
-        <div className="max-w-7xl mx-auto grid grid-cols-2 gap-4 sm:gap-12 items-start">
+      <div className="relative z-10 w-full bg-white text-neutral-900 py-24 px-6 sm:px-12 lg:px-24">
+        <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 
           {/* Text Content */}
-          <div className="space-y-4 sm:space-y-6">
+          <div className="space-y-6">
             <div>
-              <div className="font-hand text-2xl sm:text-5xl text-amber-600/60 -rotate-2 mb-2">
+              <div className="font-hand text-4xl sm:text-5xl text-amber-600/60 -rotate-2 mb-2">
                 <Typewriter text="Time to say goodbye" speed={0.02} delay={0.2} cursor />
               </div>
-              <h2 className="text-2xl sm:text-5xl font-bold leading-tight text-neutral-900">
+              <h2 className="text-4xl sm:text-5xl font-bold leading-tight text-neutral-900">
                 <Typewriter text="Das Stadtlicht verlässt den " speed={0.02} delay={0.6} cursor />
                 <span className="text-amber-600 border-b-4 border-amber-600/20">Marktplatz</span>
               </h2>
             </div>
 
-            <div className="space-y-2 sm:space-y-4 text-sm sm:text-lg leading-relaxed text-neutral-600">
+            <div className="space-y-4 text-lg leading-relaxed text-neutral-600">
               <p className="font-semibold text-neutral-800">
                 <Typewriter text="Liebe Stadtlicht-Freunde!" speed={0.01} delay={1.2} />
               </p>
@@ -74,7 +75,7 @@ export default function Home() {
                 text="Der 8. Dezember 2024 war unser letzter Tag in den Räumen der „Alten Ratswaage“! Wie schon berichtet wurde unser Pachtvertrag nicht verlängert. An Kläschen haben wir mit euch allen zusammen unseren Abschied vom Marktplatz gefeiert! 😥"
               />
 
-              <div className="font-medium text-neutral-900 bg-amber-50 p-2 sm:p-4 rounded-xl border border-amber-100">
+              <div className="font-medium text-neutral-900 bg-amber-50 p-4 rounded-xl border border-amber-100">
                 <Typewriter
                   mode="word"
                   speed={0.01}
@@ -99,10 +100,10 @@ export default function Home() {
                 />
               </p>
 
-              <div className="text-lg sm:text-xl font-hand text-amber-600 pt-2 sm:pt-4 transform rotate-1">
+              <div className="text-xl font-hand text-amber-600 pt-4 transform rotate-1">
                 <Typewriter text="Schön war es dort, aber es geht ja weiter! 🙂" speed={0.02} delay={6.5} />
                 <br />
-                <span className="text-xs sm:text-base text-neutral-500 font-sans font-normal">— Euer Karsten und sein Team!</span>
+                <span className="text-base text-neutral-500 font-sans font-normal">— Euer Karsten und sein Team!</span>
               </div>
             </div>
           </div>
